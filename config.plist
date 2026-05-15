@@ -1520,7 +1520,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02809104GUJP4FFB</string>
+			<string>C02108500GUP8PGFB</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1532,11 +1532,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro15,1</string>
+			<string>MacBookPro16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02WCRZEKGYG</string>
+			<string>C02F9YZCML7H</string>
 			<key>SystemUUID</key>
-			<string>AA043F8D-33B6-4A1A-94F7-46972AAD0607</string>
+			<string>F69F5809-8595-4ACD-84C4-691C810F9108</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
